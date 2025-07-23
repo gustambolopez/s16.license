@@ -113,12 +113,3 @@ This license does not grant permission to use trade names, trademarks, service m
 
 ---
 
-8. License Texts Included
-
-This repository must include:
-
-- `LICENSE-FAL.txt` — Full text of the Free Attribution License.  
-- `LICENSE-AGPL.txt` — Full text of the AGPLv3 License.  
-- `s16.hybrid-FAL-agpl-license.txt` — This combined license notice.
-
----
